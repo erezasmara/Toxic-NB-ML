@@ -104,6 +104,13 @@ Start:
 - npm install
 - npm run start
 
-snapshoots:
+### snapshoots.
 ![image](https://user-images.githubusercontent.com/33747218/232039512-41d0d304-efd2-4a15-adac-029ee2120f13.png)
+
+
+### Model Mahcines Learning results.
+  ![image](https://user-images.githubusercontent.com/33747218/137753235-911b5d86-b84c-41cc-bdc3-db3fa2bd0b74.png)
+  ![image](https://user-images.githubusercontent.com/33747218/137753228-106a34fb-f981-43b1-a0a1-8b1b6076b1ed.png)
+
+
 
